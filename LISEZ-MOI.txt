@@ -1,0 +1,18 @@
+MES REPAS — version 3 — calendrier et validation des achats
+
+Installation gratuite sur iPhone (GitHub Pages) :
+1. Créer un compte gratuit sur github.com si nécessaire.
+2. Créer un dépôt public (New repository), par exemple mes-repas.
+3. Décompresser le ZIP et importer tous les fichiers à la racine du dépôt (Add file > Upload files > Commit changes).
+4. Settings > Pages > Build and deployment > Deploy from a branch > main > / (root) > Save.
+5. Une fois l'adresse affichée par GitHub Pages, ouvrir cette adresse HTTPS dans Safari sur l'iPhone.
+6. Partager > Sur l'écran d'accueil > Ouvrir comme app web (si proposé) > Ajouter.
+7. Ouvrir une première fois avec Internet pour préparer le cache hors connexion.
+
+L'application contient 20 recettes de base et 1 000 variantes générées par combinaison d'ingrédients. Les idées ne sont pas toutes des recettes indépendantes testées en cuisine. Aucun service d'IA ou compte utilisateur nécessaire. Les données sont stockées localement dans le navigateur / l'app et ne sont pas envoyées à GitHub. Pas de synchronisation entre téléphones. Le code et les recettes publiés sur le dépôt public sont visibles par tous. Ne jamais y déposer un export de données personnelles.
+
+Les unités sont g, ml et pièce. Saisir par exemple 1 000 g au lieu de 1 kg. Les noms d'aliments sont rapprochés par orthographe normalisée, pas par synonymes. Utiliser les suggestions de saisie. Les dates de péremption sont indicatives : le programme ne vérifie pas la comestibilité des produits. Le calendrier mensuel permet de choisir une date et un repas midi ou soir, de déplacer un menu et de retrouver les repas préparés. Le stock n'est déduit que lorsque le repas est marqué préparé ; les menus réservés alimentent la liste de courses globale. Les articles cochés ne sont ajoutés au stock qu'après validation. Les quantités achetées, emplacements et dates peuvent être modifiés ; les achats partiels laissent le reliquat dans les courses. Le scan photo, ticket et code-barres n'est pas intégré à cette version.
+
+Exporter les données régulièrement depuis Accueil > Exporter. Importer remplace le stock, les menus, l’historique et les courses. Ne pas se reposer uniquement sur le stockage local, qui peut être effacé par le système ou l'utilisateur.
+
+Les fichiers peuvent aussi être servis localement par un serveur HTTP pour un essai sur ordinateur. L'installation iPhone et le fonctionnement hors ligne nécessitent une adresse HTTPS. Aucune installation ni publication distante n'a été réalisée par ChatGPT.
