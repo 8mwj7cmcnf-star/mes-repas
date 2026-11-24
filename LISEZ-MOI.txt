@@ -16,3 +16,5 @@ Les unités sont g, ml et pièce. Saisir par exemple 1 000 g au lieu de 1 kg. Le
 Exporter les données régulièrement depuis Accueil > Exporter. Importer remplace le stock, les menus, l’historique et les courses. Ne pas se reposer uniquement sur le stockage local, qui peut être effacé par le système ou l'utilisateur.
 
 Les fichiers peuvent aussi être servis localement par un serveur HTTP pour un essai sur ordinateur. L'installation iPhone et le fonctionnement hors ligne nécessitent une adresse HTTPS. Aucune installation ni publication distante n'a été réalisée par ChatGPT.
+
+Version 4 : suggestions dans Stocks, bouton Cuisiner cet aliment, correspondances de noms explicites, saisie en kg/L, 10 recettes supplémentaires dont 5 pour la côte de bœuf. Les anciens identifiants de recettes et la clé de sauvegarde locale sont conservés. Exporter les données avant une mise à jour.
